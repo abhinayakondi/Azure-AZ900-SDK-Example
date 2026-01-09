@@ -522,19 +522,19 @@
     ]
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "C:\\Users\\Abhinaya\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Azure-AZ900-SDK-Example/package-dotnet/package-dotnet.csproj",
+      "projectUniqueName": "D:\\Azure-AZ900-SDK-Example\\package-dotnet\\package-dotnet.csproj",
       "projectName": "package-dotnet",
-      "projectPath": "/workspaces/Azure-AZ900-SDK-Example/package-dotnet/package-dotnet.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Azure-AZ900-SDK-Example/package-dotnet/obj/",
+      "projectPath": "D:\\Azure-AZ900-SDK-Example\\package-dotnet\\package-dotnet.csproj",
+      "packagesPath": "C:\\Users\\Abhinaya\\.nuget\\packages\\",
+      "outputPath": "D:\\Azure-AZ900-SDK-Example\\package-dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Abhinaya\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -601,7 +601,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
